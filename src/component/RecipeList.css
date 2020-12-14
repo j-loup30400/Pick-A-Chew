@@ -108,8 +108,8 @@
     font-family: 'Nerko One', cursive;
     margin-top: 1rem;
     text-transform: capitalize;
-    color: white;
-    -webkit-text-stroke: 1px rgb(232, 82, 82);
+    color:red;
+    -webkit-text-stroke: 0.5px honeydew;
     font-size: 28px;
 }
 .ingredStepsList {
