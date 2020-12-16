@@ -19,7 +19,7 @@ class Home extends Component {
                 <div>
                   <h1 className="homeTitle">Pick a Chew</h1>
                 </div>
-                <div className="container-home">
+                <div className="container-home">  
                   <img className="pikachu-home" alt="pikachu" src={pikachuHome}/>
                   <img className="homePikachuDesktop" alt="Chef Pikachu." src={chefpika}/>
                     <div className="typerDiv">

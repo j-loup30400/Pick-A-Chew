@@ -3,8 +3,7 @@
     display: none !important;
 }
 .legend{
-
-    font-family: 'Nerko One', cursive;
+ font-family: 'Nerko One', cursive;
     font-size: 22px !important;
     color: black !important;
     margin-bottom: 0;
@@ -12,9 +11,12 @@
     border: 1px solid black;
     padding: 2px !important;
 }
+
  .recipeContainer {
     background-color:#f8eed7;
 }
+
+
 /* .recipeImg {
     object-fit: contain;
     padding: 45px 28px 85px 28px;
