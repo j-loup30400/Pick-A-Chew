@@ -36,4 +36,10 @@
 [1212/000008.050:ERROR:directory_reader_win.cc(43)] FindFirstFile: Le chemin d’accès spécifié est introuvable. (0x3)
 =======
 >>>>>>> c2f3449f725baaef5dc359609c047022b6755fea
+<<<<<<< HEAD
 >>>>>>> 60bf711b95c48ad5cd576e427b7499846ac585e3
+=======
+[1211/073743.498:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1215/155240.254:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1216/075027.860:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+>>>>>>> a2bde187cf7839ab850ce11037c8f0ff09efbc51
