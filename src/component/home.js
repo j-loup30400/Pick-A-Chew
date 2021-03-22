@@ -33,7 +33,7 @@ class Home extends Component {
                   <h1 className="homeTitle">Pick a Chew</h1>
                  <span onClick={this.props.toPokedex}><h2 className="subTitleDesktop">Charmander Desktop Version</h2></span>
                 </div>
-                <div className="container-home">
+                <div className="container-home">  
                   <img className="pikachu-home" alt="pikachu" src={pikachuHome}/>
                     <div className="typerDiv">
                       <PokeBubbleText 

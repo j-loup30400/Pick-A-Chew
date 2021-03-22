@@ -32,10 +32,19 @@
 [1209/101132.764:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
 =======
 >>>>>>> 630734fd76ba68c57ebc676769a41531e835f171
+<<<<<<< HEAD
+[1212/000008.050:ERROR:directory_reader_win.cc(43)] FindFirstFile: Le chemin d’accès spécifié est introuvable. (0x3)
+=======
 >>>>>>> c2f3449f725baaef5dc359609c047022b6755fea
+<<<<<<< HEAD
+>>>>>>> 60bf711b95c48ad5cd576e427b7499846ac585e3
+=======
 [1211/073743.498:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
 [1215/155240.254:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
 [1216/075027.860:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+<<<<<<< HEAD
+>>>>>>> a2bde187cf7839ab850ce11037c8f0ff09efbc51
+=======
 [1216/092834.958:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
 [1216/150715.195:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
 [1220/083241.870:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
@@ -44,6 +53,10 @@
 [1221/103549.939:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
 [1222/093020.256:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
 [1222/110129.199:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+<<<<<<< HEAD
+>>>>>>> 948b52f3ad29ae5017abc86ad5d4c2e6d3859485
+=======
 [1222/125828.012:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
 [1226/114336.417:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
 [1231/112109.254:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+>>>>>>> e0a88c3d406bce8d73b67d523c6af932be2ea8a2
