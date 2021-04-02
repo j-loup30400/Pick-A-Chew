@@ -14,7 +14,7 @@
 - [Packages and Softwares used](#packages-and-softwares-used)
 
 ## Purpose
-2 month project using React and Api call for the first time. We decided to create a simple food app that allows the user to find food recipe with the ingredients they have at home!
+1 month project using React and Api call for the first time. We decided to create a simple food app that allows the user to find food recipe with the ingredients they have at home!
 
 ## Install
 ```bash
